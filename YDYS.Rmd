@@ -1,0 +1,22 @@
+---
+title: "YDYS"
+output: html_document
+date: '2022-07-06'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r warning=FALSE, message=FALSE, error=FALSE}
+encuesta <- readr::read_csv2("Data\\YDYS_R.csv", show_col_types = FALSE)
+```
+
+# Demografia 
+```{r}
+#Cantidad de datos
+nrow (encuesta)
+
+
+```
+

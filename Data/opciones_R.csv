@@ -1,0 +1,265 @@
+﻿codigo;opción;ejemplos
+q_1.1.1a;I have personal information online;NA
+q_1.1.1a;I don't think I have personal information online;NA
+q_1.1.1a;I’m not sure;NA
+q_1.1.1b;Name;e.g. Blog, discussion forum, social media, dating website
+q_1.1.1b;Address (postal or email);e.g. On-line shopping
+q_1.1.1b;Date of birth;e.g. Social media, ancestry, genealogy sites
+q_1.1.1b;Bank account;e.g. Online banking, tax information
+q_1.1.1b;Medical information ;e.g. Prescriptions, health apps, menstruation tracker, symptoms
+q_1.1.1b;DNA information;"e.g. via research project, biobank; DNA readout or results"
+q_1.1.1b;Photographs;e.g. Social media, work website
+q_1.1.2a;Yes, these should have the same level of protection ;NA
+q_1.1.2a;Some should have greater levels of protection.;NA
+q_1.1.2a;I’m not sure;NA
+1.1.3a;Yes;NA
+1.1.3a;No;NA
+1.1.3a;I’m not sure;NA
+1.1.4a;Yes, I’m familiar through my work, personal interests or family/medical history;NA
+1.1.4a;I’m unfamiliar with DNA, genetics or genomics;NA
+1.1.4b;Person interested in ancestry/genealogy websites;NA
+1.1.4b;Direct-to-consumer company customer ;e.g. 23andMe
+1.1.4b;Biobank participant;NA
+1.1.4b;Person with a genetic condition or family history of an inherited condition;NA
+1.1.4b;Genetic health professional ;e.g. Clinical geneticist, genetic counsellor, clinical lab staff, work in genetics services in a clinical setting
+1.1.4b;Genetic researcher/student  institute, non-profit or for-profit;e.g. lab, bioinformatician, management, social science, ethics, policy, public health, public engagement, administration in a genetics institute, non-profit or for-profit
+1.1.4b;Non-genetics researcher/student;e.g. management, social science, ethics, policy, public health, public engagement, administration
+1.1.4b;Non-genetics health professional ;e.g. nurses, GPs, surgeons, hospital specialists, hospital administration staff, medical students
+1.1.4b;Research participant in any genetics research ;e.g. as a healthy volunteer or as a person with a particular genetic condition or family history of an inherited condition
+2.2.1a;Yes;NA
+2.2.1a;I’m not completely sure;NA
+2.2.2a;I’m very worried;NA
+2.2.2a;I’m somewhat worried;NA
+2.2.2a;I’m not worried;NA
+2.2.2a;I don’t really care;NA
+2.2.3a;Yes;NA
+2.2.3a;I’m not completely sure;NA
+2.2.4a;I’m very worried;NA
+2.2.4a;I’m somewhat worried;NA
+2.2.4a;I’m not worried;NA
+2.2.4a;I don’t really care;NA
+2.2.5a;For me, DNA information is different to other medical information;NA
+2.2.5a;For me, DNA information is different to other medical information;NA
+2.2.5a;For me, DNA information is different to other medical information;NA
+2.2.6a;My decision to donate is wholly influenced by being able to get my DNA readout in return;NA
+2.2.6a;My decision to donate is partly influenced by being able to get my DNA readout in return, but it is also influenced by other factors;NA
+2.2.6a;My decision to donate is not influenced by being able to get my DNA readout in return, I would donate for other reasons;NA
+2.2.6a;I wouldn’t donate my DNA information;NA
+2.2.6a;I’m not sure;NA
+3.3.1a;Yes;NA
+3.3.1a;No;NA
+3.3.1a;I'm not sure;NA
+4.4.1a;Yes;NA
+4.4.1a;No;NA
+4.4.1a;I'm not sure;NA
+5.5.1a;Yes;NA
+5.5.1a;No;NA
+5.5.1a;I'm not sure;NA
+6.6.1a;I wouldn’t donate my DNA information and medical information;NA
+6.6.1a;I’d donate my DNA information and medical information so it could be used by... (click on the boxes below);NA
+6.6.1b;Would not donate;NA
+6.6.1b;I’d accept a 1% chance of being identified;NA
+6.6.1b;I’d accept a 10% chance of being identified;NA
+6.6.1b;I’d accept a 50% chance of being identified;NA
+6.6.1b;I’d accept a 90% chance of being identified;NA
+6.6.1b;Don’t know;NA
+6.6.1c;Would not donate;NA
+6.6.1c;I’d accept a 1% chance of being identified;NA
+6.6.1c;I’d accept a 10% chance of being identified;NA
+6.6.1c;I’d accept a 50% chance of being identified;NA
+6.6.1c;I’d accept a 90% chance of being identified;NA
+6.6.1c;Don’t know;NA
+6.6.1d;Would not donate;NA
+6.6.1d;I’d accept a 1% chance of being identified;NA
+6.6.1d;I’d accept a 10% chance of being identified;NA
+6.6.1d;I’d accept a 50% chance of being identified;NA
+6.6.1d;I’d accept a 90% chance of being identified;NA
+6.6.1d;Don’t know;NA
+6.6.2a;Yes;NA
+6.6.2a;No;NA
+6.6.2a;I'm not sure;NA
+6.6.3a;Yes;NA
+6.6.3a;No;NA
+6.6.3a;I'm not sure;NA
+6.6.4a;Not bothered;NA
+6.6.4a;Concerned;NA
+6.6.4a;Very concerned;NA
+6.6.4a;I'm not sure;NA
+6.6.4b;Not bothered;NA
+6.6.4b;Concerned;NA
+6.6.4b;Very concerned;NA
+6.6.4b;I'm not sure;NA
+6.6.4c;Not bothered;NA
+6.6.4c;Concerned;NA
+6.6.4c;Very concerned;NA
+6.6.4c;I'm not sure;NA
+6.6.4d;Not bothered;NA
+6.6.4d;Concerned;NA
+6.6.4d;Very concerned;NA
+6.6.4d;I'm not sure;NA
+6.6.4e;Not bothered;NA
+6.6.4e;Concerned;NA
+6.6.4e;Very concerned;NA
+6.6.4e;I'm not sure;NA
+6.6.4f;Not bothered;NA
+6.6.4f;Concerned;NA
+6.6.4f;Very concerned;NA
+6.6.4f;I'm not sure;NA
+6.6.4g;Not bothered;NA
+6.6.4g;Concerned;NA
+6.6.4g;Very concerned;NA
+6.6.4g;I'm not sure;NA
+6.6.4h;Not bothered;NA
+6.6.4h;Concerned;NA
+6.6.4h;Very concerned;NA
+6.6.4h;I'm not sure;NA
+6.6.4i;Not bothered;NA
+6.6.4i;Concerned;NA
+6.6.4i;Very concerned;NA
+6.6.4i;I'm not sure;NA
+6.6.4j;Not bothered;NA
+6.6.4j;Concerned;NA
+6.6.4j;Very concerned;NA
+6.6.4j;I'm not sure;NA
+6.6.4k;Not bothered;NA
+6.6.4k;Concerned;NA
+6.6.4k;Very concerned;NA
+6.6.4k;I'm not sure;NA
+6.6.4l;Not bothered;NA
+6.6.4l;Concerned;NA
+6.6.4l;Very concerned;NA
+6.6.4l;I'm not sure;NA
+6.6.5a;My friends potentially knowing something about me that I hadn’t chosen to tell them;NA
+6.6.5a;My family potentially knowing something about me that I hadn’t chosen to tell them;NA
+6.6.5a;My government potentially knowing something about me that I hadn’t chosen to tell them;NA
+6.6.5a;Police potentially knowing something about me that I hadn’t chosen to tell them;NA
+6.6.5a;Marketing companies targeting me to sell me products;NA
+6.6.5a;Being stigmatised and labelled in some way online;NA
+6.6.5a;Being cloned;NA
+6.6.5a;My DNA being copied and then planted at the scene of a crime;NA
+6.6.5a;Health or life insurance companies using the information to discriminate against me;NA
+6.6.5a;Employers using the information to discriminate against me;NA
+6.6.5a;Upsetting my genetic relatives (because my DNA information is similar to their DNA information);NA
+6.6.5a;Ethnic identification and racial discrimination;NA
+6.6.6a;Yes;NA
+6.6.6a;No;NA
+6.6.6a;I'm not sure;NA
+7.7.1a;whether my identifying information (name, date of birth etc) would be included or not;NA
+7.7.1a;who has control over access to my information;NA
+7.7.1a;what sorts of research my information could be used in;NA
+7.7.1a;the potential risks and benefits of making a donation;NA
+7.7.1a;how the researcher might benefit from accessing my information;NA
+7.7.1a;what commercial profits would be made on the basis of my information;NA
+7.7.1a;what sort of researchers are likely to access my information;NA
+7.7.1a;how I might be acknowledged for my contribution to scientific knowledge;NA
+7.7.1a;if the researchers were going to make money with the results (e.g. from patents);NA
+7.7.1a;whether I would have access to the DNA readout generated by researchers;NA
+7.7.1a;if I can participate in the governance of data access;NA
+7.7.1a;how I will be assisted if there is a data breach;NA
+7.7.1a;None of this information would help me make a decision;NA
+7.7.1a;I wouldn’t donate my DNA information and/or medical information (note: not sure if this is included in the question 7.7.1a);NA
+7.7.2a;whether my identifying information (name, date of birth etc) would be included or not;NA
+7.7.2a;who has control over access to my information;NA
+7.7.2a;what sorts of research my information could be used in;NA
+7.7.2a;the potential risks and benefits of making a donation;NA
+7.7.2a;how the researcher might benefit from accessing my information;NA
+7.7.2a;what commercial profits would be made on the basis of my information;NA
+7.7.2a;what sort of researchers are likely to access my information;NA
+7.7.2a;how I might be acknowledged for my contribution to scientific knowledge;NA
+7.7.2a;if the researchers were going to make money with the results (e.g. from patents);NA
+7.7.2a;whether I would have access to the DNA readout generated by researchers;NA
+7.7.2a;if I can participate in the governance of data access;NA
+7.7.2a;how I will be assisted if there is a data breach;NA
+7.7.3a;I would give permission for my information to go into a database for all future research and would not need to be updated with what happened to it;NA
+7.7.3a;I’d want to be contacted about the different uses of my information up to once a day;NA
+7.7.3a;I’d want to be contacted about the different uses of my information up to once a month;NA
+7.7.3a;I’d want to be contacted about the different uses of my information up to once a year;NA
+7.7.3a;I’m not sure;NA
+7.7.3a;I wouldn’t donate my DNA information and/or medical information ;NA
+7.7.4a;Yes;NA
+7.7.4a;No;NA
+7.7.4a;I'm not sure;NA
+7.7.4a;I wouldn’t donate my DNA information and/or medical information;NA
+8.8.1a;Transparent information about WHO will benefit from the data access;NA
+8.8.1a;Transparent information about HOW others will benefit personally, professionally and commercially from the data access;NA
+8.8.1a;A website that clearly explains the pros and cons of data access;NA
+8.8.1a;The option to opt out of having your information accessed by other researchers;NA
+8.8.1a;The option to withdraw your information in the future;NA
+8.8.1a;Biographies and photos of the sorts of researchers who would access the data;NA
+8.8.1a;Knowing exactly who is using your information, and for what purpose;NA
+8.8.1a;The ability to access your own DNA information and/or medical information;NA
+8.8.1a;Being able to communicate directly with gatekeepers of my DNA information and/or medical information;NA
+8.8.1a;Details about the sanctions applicable if my data is misused by others;NA
+8.8.1a;I wouldn’t donate my DNA information and/or medical information (not sure if this is included in this column);NA
+8.8.2a;Transparent information about WHO will benefit from the data access;NA
+8.8.2a;Transparent information about HOW others will benefit personally, professionally and commercially from the data access;NA
+8.8.2a;A website that clearly explains the pros and cons of data access;NA
+8.8.2a;The option to opt out of having your information accessed by other researchers;NA
+8.8.2a;The option to withdraw your information in the future;NA
+8.8.2a;Biographies and photos of the sorts of researchers who would access the data;NA
+8.8.2a;Knowing exactly who is using your information, and for what purpose;NA
+8.8.2a;The ability to access your own DNA information and/or medical information;NA
+8.8.2a;Being able to communicate directly with gatekeepers of my DNA information and/or medical information;NA
+8.8.2a;Details about the sanctions applicable if my data is misused by others;NA
+8.8.3a;I would generally trust;NA
+8.8.3a;I'm not sure;NA
+8.8.3a;I would not generally trust ;NA
+8.8.3b;I would generally trust;NA
+8.8.3b;I'm not sure;NA
+8.8.3b;I would not generally trust ;NA
+8.8.3c;I would generally trust;NA
+8.8.3c;I'm not sure;NA
+8.8.3c;I would not generally trust ;NA
+8.8.3d;I would generally trust;NA
+8.8.3d;I'm not sure;NA
+8.8.3d;I would not generally trust ;NA
+8.8.3e;I would generally trust;NA
+8.8.3e;I'm not sure;NA
+8.8.3e;I would not generally trust ;NA
+8.8.3f;I would generally trust;NA
+8.8.3f;I'm not sure;NA
+8.8.3f;I would not generally trust ;NA
+8.8.3g;I would generally trust;NA
+8.8.3g;I'm not sure;NA
+8.8.3g;I would not generally trust ;NA
+8.8.3h;I would generally trust;NA
+8.8.3h;I'm not sure;NA
+8.8.3h;I would not generally trust ;NA
+8.8.3i;I would generally trust;NA
+8.8.3i;I'm not sure;NA
+8.8.3i;I would not generally trust ;NA
+D.D.1a;under 16;NA
+D.D.1a;17-20;NA
+D.D.1a;21-30;NA
+D.D.1a;31-40;NA
+D.D.1a;41-50;NA
+D.D.1a;51-60;NA
+D.D.1a;61-70;NA
+D.D.1a;71-80;NA
+D.D.1a;81-90;NA
+D.D.1a;91+;NA
+D.D.2a;Male;NA
+D.D.2a;Female;NA
+D.D.2a;Prefer not to say;NA
+D.D.3a;Yes;NA
+D.D.3a;No;NA
+D.D.3a;Prefer not to say;NA
+D.D.5a;No formal schooling completed;NA
+D.D.5a;Completed primary school/preparatory school/elementary school;NA
+D.D.5a;Currently studying at secondary school/high school;NA
+D.D.5a;Completed secondary school/high school;NA
+D.D.5a;Currently studying at university/college/other tertiary education institution;NA
+D.D.5a;Completed degree(s) at university/college/other tertiary education institution;NA
+D.D.6a;White;NA
+D.D.6a;Afro-european, African American, Black;NA
+D.D.6a;Hispanic;NA
+D.D.6a;South Asian Indian, Pakistani;NA
+D.D.6a;East Asian Chinese, Japanese;NA
+D.D.6a;Arab, Central Asian;NA
+D.D.7a;A religious person;NA
+D.D.7a;Not a religious person;NA
+D.D.8a;Married / civil partnership / living together;NA
+D.D.8a;Divorced;NA
+D.D.8a;Separated;NA
+D.D.8a;Widowed;NA
+D.D.8a;Single;NA
